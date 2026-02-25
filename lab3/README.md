@@ -124,7 +124,6 @@ All transformations were successfully applied to the input image. The results de
 This lab includes:
 - ✅ Jupyter notebook with complete solutions
 - ✅ All transformed images in the images/ directory
-- ✅ Detailed PDF report
 - ✅ README documentation
 - ✅ GitHub repository link (to be provided)
 
